@@ -600,4 +600,5 @@
 @@||youtube.com^
 @@||yt3.ggpht.com^
 @@||z.cdn.turner.com^
-@@||zeke.scea.com
+@@||zeke.scea.com^
+@@||data-d6e13c60e8.orf.at^
