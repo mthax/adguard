@@ -138,6 +138,8 @@
 @@||d2gatte9o95jao.cloudfront.net^
 @@||dashboard.plex.tv^
 @@||dataplicity.com^
+@@||data.meethue.com^
+@@||diag.meethue.com^
 @@||def-vef.xboxlive.com^
 @@||deimos3.apple.com^
 @@||delivery.vidible.tv^
